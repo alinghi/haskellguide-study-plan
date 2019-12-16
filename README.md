@@ -97,7 +97,7 @@ Some subjects take one day, and some will take multiple days. Some are just lear
 [CC-BY-SA-4.0](./LICENSE.txt)
 
 # learning modules
-- [ ] https://github.com/haskellguide/lambda-calculus-module
+- [X] https://github.com/haskellguide/lambda-calculus-module
 - [ ] https://github.com/haskellguide/syntax-module
 - [ ] https://github.com/haskellguide/optional-module
 - [ ] https://github.com/haskellguide/monad-module
